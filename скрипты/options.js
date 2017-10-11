@@ -1,5 +1,5 @@
 var vblog={
-        login:'mikone5',
+        login:'mikone',
 		replieLink:'free',
 		followTag:'ru--otkrytyij-kod',
 
